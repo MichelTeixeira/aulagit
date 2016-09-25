@@ -1,4 +1,4 @@
-<i>vim README.txt<i>
-git add <bold>README.txt<bold>
-git commit -m <bold>'Adicionando arquivo README.'<bold>
-git push <i>origin<i> <bold>master<bold>
+_vim README.txt_
+git add **README.txt**
+git commit -m **'Adicionando arquivo README.'**
+git push _origin_ **master**
