@@ -1,1 +1,2 @@
-funcionalidade 1, atualizado.
+Funcionalidade 1.
+Atualizado em: 26/09/2016.

@@ -1,3 +1,4 @@
 <?php
-echo "Novo Branch Criado!!";
+$msg = "Novo Branch Criado!!";
+echo $msg;
 ?>

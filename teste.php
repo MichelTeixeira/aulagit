@@ -1,1 +1,4 @@
-<?="Teste Git";?>
+<?php
+$msg = "Teste Git";
+echo $msg;
+?>
